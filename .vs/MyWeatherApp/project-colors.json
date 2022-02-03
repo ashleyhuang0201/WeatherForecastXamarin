@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f12b398-0069-40bf-ba3d-243adacf3652": {
+      "ProjectGuid": "0f12b398-0069-40bf-ba3d-243adacf3652",
+      "DisplayName": "MyWeatherApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
